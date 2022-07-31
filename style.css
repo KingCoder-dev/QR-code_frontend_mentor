@@ -23,6 +23,7 @@ body{
     font-size: 1.5rem;
     display: flex;
     align-items: center;
+    justify-items:center;
     
     min-height: 100vh;
     background-color: var(--Lightgray);
