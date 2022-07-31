@@ -28,7 +28,7 @@ body{
     background-color: var(--Lightgray);
     flex-direction: column;
 }
-.card{
+.card ,.main{
     display: flex;
     align-items: center;
     margin: auto;
